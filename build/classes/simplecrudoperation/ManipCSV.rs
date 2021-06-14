@@ -1,0 +1,8 @@
+simplecrudoperation.ReadDb
+simplecrudoperation.DeleteRow
+simplecrudoperation.Create
+simplecrudoperation.InputDataToDb
+simplecrudoperation.ReadDbAndShow
+simplecrudoperation.CreateDb
+simplecrudoperation.UpdateCell
+simplecrudoperation.WriteDb
