@@ -1,4 +1,4 @@
-## Simple-CRUD-operation-in-Java
+## Simple CRUD operation in Java
 
 CRUD operation 
 		
